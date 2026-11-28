@@ -1,8 +1,8 @@
 
 🏥 Hospital Data Analytics using Power BI
-📌 Project Overview
 
-This project focuses on analyzing the operations and performance of CityCare Hospital using Microsoft Power BI. It provides interactive dashboards to understand patient information, doctor performance, appointments, treatments, and hospital billing.
+📌 Project Overview
+This project analyzes the operations and performance of CityCare Hospital using Microsoft Power BI. It provides interactive dashboards to understand patient information, doctor performance, appointments, treatments, and hospital billing.
 
 🎯 Project Objectives
 Analyze hospital patient data.
@@ -79,7 +79,7 @@ patients.csv
 treatments.csv
 
 💡 Key Learnings
-Data cleaning and transformation using Power Query.
+Cleaned and transformed data using Power Query.
 Creating DAX measures and KPIs.
 Designing interactive dashboards.
 Analyzing healthcare business performance.
